@@ -25,6 +25,7 @@
 
 #include <opencv/cv.h>
 #include <opencv/highgui.h>
+#include <opencv2/videoio.hpp>
 #include <QtCore/QThread>
 #include <QtGui/QImage>
 #include <QtCore/QTimer>

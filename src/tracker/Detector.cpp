@@ -18,8 +18,9 @@
 // Copyright CSIRO 2013
 
 #include <opencv2/core/core.hpp>
-
+#include <opencv2/imgproc.hpp>
 #include "Detector.hpp"
+#include <iostream>
 #include "IO.hpp"
 
 using namespace FACETRACKER;

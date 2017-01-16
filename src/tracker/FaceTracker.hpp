@@ -19,6 +19,7 @@
 
 #ifndef _TRACKER_FaceTracker_h_
 #define _TRACKER_FaceTracker_h_
+#include <opencv2/imgproc.hpp>
 #include <tracker/IO.hpp>
 namespace FACETRACKER
 {

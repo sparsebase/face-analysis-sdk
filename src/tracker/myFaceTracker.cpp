@@ -16,7 +16,8 @@
 // most directory of the source code.
 
 // Copyright CSIRO 2013
-
+#include <iostream>
+#include <opencv2/imgproc.hpp>
 #include <tracker/myFaceTracker.hpp>
 #define it at<int>
 #define db at<double>

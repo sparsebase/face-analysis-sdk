@@ -16,7 +16,7 @@
 // most directory of the source code.
 
 // Copyright CSIRO 2013
-
+#include <iostream>
 #include "utils/helpers.hpp"
 #include "utils/command-line-arguments.hpp"
 #include "utils/points.hpp"

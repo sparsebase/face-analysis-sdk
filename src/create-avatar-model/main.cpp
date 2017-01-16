@@ -1,3 +1,4 @@
+#include <iostream>
 #include "utils/helpers.hpp"
 #include "utils/command-line-arguments.hpp"
 #include "utils/points.hpp"

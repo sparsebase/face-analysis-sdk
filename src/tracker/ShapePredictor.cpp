@@ -16,7 +16,7 @@
 // most directory of the source code.
 
 // Copyright CSIRO 2013
-
+#include <opencv2/imgproc.hpp>
 #include <tracker/ShapePredictor.hpp>
 #include <tracker/CLM.hpp>
 #define db at<double>
